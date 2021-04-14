@@ -47,7 +47,7 @@ If you don1t have npm in your local machine, install now:
 ### Installation
 1. Clone the repository
   ```sh
-  git clone git@github.com:Hildebrando-Viana-Matos/watchme_ignite.git
+  git clone git@github.com:Hildebrando-Viana-Matos/todo_ignite.git
   ```
 2. Install the dependencies
   ```bash
